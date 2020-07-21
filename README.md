@@ -124,7 +124,7 @@ D. Submit your statistical analysis and written conclusions.
 
 |Criteria|4 Excellent|3 Proficient|2 Adequate|1 Limited|Insufficient or Blank|
 |---|---|---|---|---|---|
-|Data Collection|**pertinent** and from **reliable** and **documented** sources|**relevant** and from **substantially reliable** and **documented** sources|**suitable** but from **questionable** or **partially documented** sources|no data collected|
+|Data Collection|**pertinent** and from **reliable** and **documented** sources|**relevant** and from **substantially reliable** and **documented** sources|**suitable** but from **questionable** or **partially documented** sources|unsuitable|no data collected|
 |Process and Reflection (Checkpoints)|prepared to discuss topic, plans, and methods insightfully|prepared to discuss topic, plans, and methods|partially prepared to discuss topic, plans, and method vaguely|unprepared to discuss topic, plans, and method with difficulty or incorrectly|no discussion|
 |Statistical Calculations|thorough statistical analysis with accurate calculations|adequate statistical analysis with essentially correct calculations|superficial statistical analysis with partially correct calculations|minimal statistical analysis with flawed calculations|no statistical calculations performed|
 |Interpretation|astute and insightful|credible and understandable|rudimentary and minimal|incomplete or flawed|no interpretation of the data and statistical measures|
