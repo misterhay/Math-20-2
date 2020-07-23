@@ -4,6 +4,8 @@ Part of the requirements of the Math 20-2 course is a research project. The proj
 
 For this project, you will collect numerical data about a topic that interests you. Then you will perform a statistical analysis of your data and report on your findings. You will be expected to present your findings and your predictions using a Jupyter notebook, plus be prepared to explain your results when asked questions. There are a number of starter notebooks in the [AccessingData](https://github.com/misterhay/Math-20-2/tree/master/AccessingData) folder.
 
+For more background on statistics, check out this [Introductory Statistics Textbook](https://openstax.org/books/introductory-statistics/pages/1-introduction).
+
 ## Part 1: Creating an Action Plan
 
 Create a research question on a statistical topic you would like to answer.
