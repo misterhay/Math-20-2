@@ -86,13 +86,18 @@ C. Collect the data. There is a sheet at the back of this booklet for you to rec
 Statistical tools can help you analyze and interpret the data you collect. You need to think carefully about which statistical tools are most applicable to your topic. Some tools may work well; others may not be applicable with your topic. Keep in mind that you will be marked on the thoroughness of your statistical analyis, so don’t try to scrape by with the bare minimum!
 
 ### Tools
-* Data Table (required)
-* Histogram or Frequency Polygon (required)
-* Measures of Central Tendency: Mean, Median, Mode – Which is the most appropriate for measuring the “average” of your data?
-* Measures of Dispersion: Range and Standard Deviation – Comment on the dispersion of your data.
-* Outliers – Are there outliers in your data? Do these skew the results? Would it be more appropriate to remove the outliers before calculating measures of central tendency or dispersion?
-* Normal Distribution – Does your data approximate a normal distribution? Explain why or why not.
-* Z-Scores – Find the z-score of a number of significant data points. If your data is normally distributed, find the percentage of data that is below or above a significant data point.
+* Data Table
+* Visualization(s) (e.g. Histogram, Frequency Polygon, Scatterplot)
+* Measures of Central Tendency: Mean, Median, Mode
+** Which is the most appropriate for measuring the “average” of your data?
+* Measures of Dispersion: Range and Standard Deviation
+** Comment on the dispersion of your data.
+* Outliers
+** Are there outliers in your data? Do these skew the results? Would it be more appropriate to remove the outliers before calculating measures of central tendency or dispersion?
+* Normal Distribution
+** Does your data approximate a normal distribution? Explain why or why not.
+* Z-Scores
+** Find the z-score of a number of significant data points. If your data is normally distributed, find the percentage of data that is below or above a significant data point.
 
 ### Your Turn:
 A. Determine which statistical tools are appropriate for your data.
