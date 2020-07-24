@@ -88,7 +88,7 @@ Statistical tools can help you analyze and interpret the data you collect. You n
 ### Tools
 * Data Table
 * Visualization(s) (e.g. Histogram, Frequency Polygon, Scatterplot)
-* Measures of Central Tendency: Mean, Median, Mode
+* Measures of Central Tendency (Mean, Median, Mode)
 ** Which is the most appropriate for measuring the “average” of your data?
 * Measures of Dispersion: Range and Standard Deviation
 ** Comment on the dispersion of your data.
