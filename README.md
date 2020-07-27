@@ -53,7 +53,7 @@ If you choose this type of data, please make sure your research question is well
 You may want to do a comparison (e.g. compare climate in provinces, compare career stats of two or more hockey players, etc.) in order to get enough information to perform a statistical analysis.
 
 #### Ideas for Secondary Data Topics:
-You can use the starter notebooks in the [AccessingData](https://github.com/misterhay/Math-20-2/tree/master/AccessingData) folder. Feel free to choose a topic that is not in that list, but keep in mind that you need to be able to find enough data. 
+You can use the starter notebooks in the [AccessingData](AccessingData) folder. Feel free to choose a topic that is not in that list, but keep in mind that you need to be able to find enough data. 
 
 ### Creating Your Research Question or Statement
 A good question requires thought and planning. A well-written research question or statement clarifies exactly what your project is designed to do. It should have the following characteristics:
@@ -108,6 +108,12 @@ C. Use statistics to analyze your data.
 * Comment on trends in your data. Interpret the statistical measures you used. What conclusions can you draw?
 * If you have collected data on more than one group, person, time frame, or region, comment on the differences between them. What conclusions can you draw?
 
+### Example Projects
+
+[Income Per Person](example-project-income-per-person.ipynb)
+
+[Soccer Data](example-project-soccer.ipynb)
+
 ## Part 4: The Final Product and Presentation
 Your final presentation should be more than just a factual written report of the information you have found. To make the most of your hard work, select a format for your final presentation that will suit your strengths, as well as your topic. You will be presenting the results of your research topic via video (approximately 3 to 5 minutes), and must include visuals.
 
@@ -121,7 +127,7 @@ Before giving your presentation, you can use these questions to decide if your p
 * Am I satisfied with my presentation? What might make it more effective?
 * What unanswered questions might my audience have?
 
-#### Your Turn:
+### Your Turn:
 A. Choose a format for your presentation, and create your presentation.
 B. Meet with your teacher to discuss your presentation plans and progress.
 C. Present your topic via video.
